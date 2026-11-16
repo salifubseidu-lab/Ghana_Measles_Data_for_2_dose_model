@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the paper and the original data sources listed in data/README.md."
+title: "Data and code for: Modeling and Optimizing Control of Measles in West Africa: a two-dose model with saturated treatment, calibrated to Ghana"
+type: dataset
+authors:
+  - family-names: Makinde
+    given-names: O. D.
+  - family-names: Seini
+    given-names: I. Y.
+  - family-names: Seidu
+    given-names: Baba
+  - family-names: Osman
+    given-names: S.
+date-released: 2026-11-15
+version: 1.0.0
+license:
+  - MIT
+  - CC-BY-NC-SA-4.0
+keywords:
+  - measles
+  - two-dose vaccination
+  - saturated treatment
+  - Bayesian calibration
+  - Ghana

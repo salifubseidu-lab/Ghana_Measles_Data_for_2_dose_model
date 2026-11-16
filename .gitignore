@@ -1,0 +1,8 @@
+results/*
+!results/.gitkeep
+figures/*
+!figures/.gitkeep
+octave-workspace
+*.asv
+*.mat
+.DS_Store

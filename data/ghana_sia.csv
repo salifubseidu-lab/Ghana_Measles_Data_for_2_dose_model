@@ -1,0 +1,4 @@
+year,month,day,survey_coverage,eta,age_group
+2013,9,15,0.96,0.9,9m-14y
+2018,10,19,0.91,0.6,9-59m
+2024,10,4,0.84,0.6,9-59m
